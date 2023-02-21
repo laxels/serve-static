@@ -1,7 +1,7 @@
 {
   "name": "@laxels/serve-static",
   "description": "Serve static files",
-  "version": "1.15.0",
+  "version": "1.15.1",
   "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
   "license": "MIT",
   "repository": "laxels/serve-static",
